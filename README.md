@@ -12,7 +12,7 @@
 Azure | Terraform | Kubernetes | PowerShell | ARM Templates
 
 ## 📫 Contact
-linkedin.com/in/higginsdasean | higgins.dasean@gmail.com
+www.linkedin.com/in/higginsdasean | higgins.dasean@gmail.com
 =======
 # azure-cloud-portfolio
 Azure cloud engineering portfolio - multi-tier apps, IaC, and enterprise-grade solutions
