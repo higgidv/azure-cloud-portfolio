@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Azure Cloud Architecture Portfolio
 > Enterprise-grade Azure solutions demonstrating Fortune 500-level cloud engineering skills
 
@@ -17,4 +16,4 @@ Azure | Terraform | Kubernetes | PowerShell | ARM Templates
 =======
 # azure-cloud-portfolio
 Azure cloud engineering portfolio - multi-tier apps, IaC, and enterprise-grade solutions
->>>>>>> 71571a0773286be25351c71df053d87cd0d754d5
+
