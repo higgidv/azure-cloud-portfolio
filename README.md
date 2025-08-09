@@ -18,7 +18,7 @@ Professional Azure cloud architecture projects showcasing Fortune 500-level infr
 
 **Key Achievement**: Built production-ready networking infrastructure that Fortune 500 companies use for enterprise applications.
 
-[📖 View Project Details](./project-01-multi-tier-webapp/README.md)
+[📖 View Project Details](./project-01-multi-tier-webapp/documentation/README.md)
 
 ---
 
@@ -87,13 +87,14 @@ Each project includes:
 - Cost analysis and optimization
 - Skills demonstration focus
 
-## 📫 Connect
+## �� Connect
 
 Building enterprise Azure solutions with focus on security, scalability, and cost optimization.
 
 **Portfolio**: [github.com/higgidv/azure-cloud-portfolio](https://github.com/higgidv/azure-cloud-portfolio)
 
 www.linkedin.com/in/higginsdasean | higgins.dasean@gmail.com
+
 ---
 
 *Professional cloud architecture portfolio demonstrating enterprise Azure infrastructure capabilities.*
