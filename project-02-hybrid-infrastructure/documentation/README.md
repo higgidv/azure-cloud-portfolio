@@ -11,7 +11,7 @@ Demonstrates Fortune 500-level hybrid cloud connectivity using Azure Site-to-Sit
 
 ## Current Status
 - [x] Network infrastructure deployed
-- [ ] VPN gateways deploying (45 minutes)
+- [x] VPN gateways deploying (35 minutes)
 - [ ] Domain controller setup
 - [ ] Application services
 - [ ] Identity integration
@@ -19,4 +19,4 @@ Demonstrates Fortune 500-level hybrid cloud connectivity using Azure Site-to-Sit
 
 ## Cost Tracking
 - Monthly estimate: $15-20
-- Remaining free tier: $XXX
+- Remaining project budget: $200
