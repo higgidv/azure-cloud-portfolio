@@ -35,33 +35,3 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
-
-# macOS system files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-
-# Terraform files that should be ignored
-**/.terraform/
-**/.terraform.*
-*.tfstate
-*.tfstate.*
-*.tfplan
-*.tfvars
-.terraformrc
-terraform.rc
-
-# Keep lock file but not the providers
-!**/.terraform.lock.hcl
-
-# Backup files
-*.bak
-
-# IDE files
-.vscode/
-.idea/
-
-# Log files
-*.log

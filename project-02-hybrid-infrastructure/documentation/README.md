@@ -1,20 +1,43 @@
+# Project 2: Enterprise Hybrid Cloud Infrastructure
+
+## Overview
+Demonstrates Fortune 500-level hybrid cloud connectivity using Azure Site-to-Site VPN, simulated on-premises environment, and identity integration patterns.
+
+## Architecture
+- Simulated on-premises environment (East US)
+- Production cloud environment (West US 2)
+- Site-to-Site VPN connectivity
+- Azure AD integration simulation
+
+## Current Status
+- [x] Network infrastructure deployed
+- [x] VPN gateways deploying (35 minutes)
+- [ ] Domain controller setup
+- [ ] Application services
+- [ ] Identity integration
+- [ ] Testing and validation
+
+## Cost Tracking
+- Monthly estimate: $15-20
+- Remaining project budget: $200
+
 # Project 02 Documentation Index
 
-## í³ Documentation Structure
+## ï¿½ï¿½ï¿½ Documentation Structure
 
-### í³Š Cost Management
+### ï¿½ï¿½ï¿½ Cost Management
 - [Cost Analysis](costs/cost-update.md) - Detailed cost breakdown and optimization strategies
 
-### í¿—ï¸ Architecture  
+### ï¿½ï¿½ï¿½ï¸ Architecture  
 - [Architecture Overview](architecture/ARCHITECTURE.md) - High-level design and components
 
-### í»¡ï¸ Security
+### ï¿½ï¿½ï¿½ï¸ Security
 - [Security Controls](security/SECURITY.md) - Security implementation and best practices
 
-### í·ª Testing & Validation
+### ï¿½ï¿½ï¿½ Testing & Validation
 - [Testing Procedures](testing/TESTING.md) - Comprehensive testing methodology
 
-## í³‹ Quick Reference
+## ï¿½ï¿½ï¿½ Quick Reference
 
 ### Key Metrics
 - **Total Monthly Cost**: ~$19 (current), ~$24 (with production apps)
