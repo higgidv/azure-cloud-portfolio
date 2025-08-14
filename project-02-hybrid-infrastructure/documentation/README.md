@@ -12,8 +12,8 @@ Demonstrates Fortune 500-level hybrid cloud connectivity using Azure Site-to-Sit
 ## Current Status
 - [x] Network infrastructure deployed
 - [x] VPN gateways deploying (35 minutes)
-- [ ] Domain controller setup
-- [ ] Application services
+- [x] Domain controller setup
+- [x] Application services
 - [ ] Identity integration
 - [ ] Testing and validation
 
