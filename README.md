@@ -87,7 +87,7 @@ Each project includes:
 - Cost analysis and optimization
 - Skills demonstration focus
 
-## �� Connect
+## 💼 Connect
 
 Building enterprise Azure solutions with focus on security, scalability, and cost optimization.
 
