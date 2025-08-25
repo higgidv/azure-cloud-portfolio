@@ -19,7 +19,6 @@ resource "azurerm_kubernetes_cluster" "main" {
     network_policy     = "azure"
     dns_service_ip     = "10.0.100.10"
     service_cidr       = "10.0.100.0/24"
-    docker_bridge_cidr = "172.17.0.1/16"
   }
 
   identity {
