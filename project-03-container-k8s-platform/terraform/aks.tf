@@ -30,4 +30,9 @@ resource "azurerm_kubernetes_cluster" "main" {
     Project     = "container-platform"
     ManagedBy   = "terraform"
   }
+
+  oms_agent {
+    log_analytics_workspace_id = azurerm_log_analytics_workspace.main.id
+  }
+  
 }

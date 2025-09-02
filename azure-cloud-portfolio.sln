@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "project-03-container-k8s-platform", "project-03-container-k8s-platform", "{42334AAD-704E-DF69-C546-CF2EF7C2FFA5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{074F9160-EB45-1496-D537-44594B8AB422}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "project-03-container-k8s-platform\src\product-service\ProductService.csproj", "{10DA8900-922B-3FA9-BD28-2BD2A8427A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10DA8900-922B-3FA9-BD28-2BD2A8427A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10DA8900-922B-3FA9-BD28-2BD2A8427A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10DA8900-922B-3FA9-BD28-2BD2A8427A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10DA8900-922B-3FA9-BD28-2BD2A8427A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{074F9160-EB45-1496-D537-44594B8AB422} = {42334AAD-704E-DF69-C546-CF2EF7C2FFA5}
+		{10DA8900-922B-3FA9-BD28-2BD2A8427A54} = {074F9160-EB45-1496-D537-44594B8AB422}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA4B6A3D-6DCB-4317-BB76-71A0E4EDBF5D}
+	EndGlobalSection
+EndGlobal

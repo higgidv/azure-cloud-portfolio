@@ -93,3 +93,14 @@ variable "aks_subnet_address_prefix" {
   type        = string
   default     = "10.0.0.0/22"
 }
+
+variable "log_retention_days" {
+  description = "Log Analytics retention by environment"
+  type        = map(number)
+  default     = {
+    dev     = 30
+    staging = 30
+    test    = 30
+    prod    = 90
+  }
+}
